@@ -3,7 +3,7 @@
 ### My name is Anja, Front End Web Developer!
 
 
-🙋‍♀️ I'm kick starting my web development career after recently completing a full-stack web development course on HTML, CSS, Javascript, Ruby and Ruby on Rails, with a particular interest in a sustainable field.
+🙋‍♀️ I'm kick starting my web development career after recently completing a full-stack web development course on HTML, CSS, Javascript, Ruby and Ruby on Rails, with a particular interest in a field of sustainability.
 <br>
 🌱 I have experience in reducing waste which I implemented and it was always a topic in my previous culinary work. 
 <br>
