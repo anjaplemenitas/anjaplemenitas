@@ -1,15 +1,19 @@
-### Hi there 👋, my name is Anja!
+### Hi there 👋
+
+### My name is Anja and I am Front End Web Developer!
 
 
-Seeking for an entry-level position to kick start my web development career after recently completing a full-stack web development course on HTML, CSS, Javascript, Ruby and Ruby on Rails, with a particular interest in a sustainable field. 
-I have experience in reducing waste which I implemented and it was always a topic in my previous culinary work. 
-Self-motivated, highly organised, and perform multiple tasks under minimal supervision. 
+🙋‍♀️ I'm kick starting my web development career after recently completing a full-stack web development course on HTML, CSS, Javascript, Ruby and Ruby on Rails, with a particular interest in a sustainable field.
+<br>
+🌱 I have experience in reducing waste which I implemented and it was always a topic in my previous culinary work. 
+<br>
+💪 Self-motivated, highly organised, and perform multiple tasks under minimal supervision. 
 
 <h3 align="left">Projects:</h3>
 
-[OddRecipe](https://github.com/anjaplemenitas/OddRecipe)
+🥑  [OddRecipe](https://github.com/anjaplemenitas/OddRecipe)
 <br>
-[Games in the Dungeon](https://github.com/anjaplemenitas/games_in_the_dungeon)
+🎲 [Games in the Dungeon](https://github.com/anjaplemenitas/games_in_the_dungeon)
 
 <h3 align="left">Connect with me:</h3>
  <p align="left">
