@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### My name is Anja, Front End Web Developer!
+### My name is Anja - Front End Web Developer!
 
 
 🙋‍♀️ Kick starting my web development career after recently completing a full-stack web development course at LeWagon London. 
@@ -16,6 +16,8 @@
 🥑  [OddRecipe](https://github.com/anjaplemenitas/OddRecipe)
 <br>
 🎲 [Games in the Dungeon](https://github.com/anjaplemenitas/games_in_the_dungeon)
+
+📨 **anja.plemenitas@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
  <p align="left">
