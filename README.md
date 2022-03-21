@@ -8,6 +8,7 @@ Self-motivated, highly organised, and perform multiple tasks under minimal super
 <h3 align="left">Projects:</h3>
 
 [OddRecipe](https://github.com/anjaplemenitas/OddRecipe)
+<br>
 [Games in the Dungeon](https://github.com/anjaplemenitas/games_in_the_dungeon)
 
 <h3 align="left">Connect with me:</h3>
