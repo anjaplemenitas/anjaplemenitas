@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### My name is Anja and I am Front End Web Developer!
+### My name is Anja and I'm a Front End Web Developer!
 
 
 🙋‍♀️ I'm kick starting my web development career after recently completing a full-stack web development course on HTML, CSS, Javascript, Ruby and Ruby on Rails, with a particular interest in a sustainable field.
