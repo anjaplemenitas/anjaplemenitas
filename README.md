@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 📨 **anja.plemenitas@gmail.com**
 <br>
-📄 [https://drive.google.com/file/d/16KJegG0bFbueVW6Inxq7X9vhsmQFPheh/view?usp=sharing](https://drive.google.com/file/d/16KJegG0bFbueVW6Inxq7X9vhsmQFPheh/view?usp=sharing)
+📄 [https://tinyurl.com/mycvwork](https://tinyurl.com/mycvwork)
 <br>
  <p align="left">
  <a href="https://www.linkedin.com/in/anjaplemenitas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alastair-turner-7b60b98a" height="30" width="40" /></a>
