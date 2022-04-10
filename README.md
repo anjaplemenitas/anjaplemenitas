@@ -13,9 +13,9 @@
 
 <h3 align="left">Projects:</h3>
 
-🥑  [OddRecipe](https://github.com/anjaplemenitas/OddRecipe)
+🥑  [OddRecipe](https://github.com/anjaplemenitas/OddRecipe/blob/master/README.md)
 <br>
-🎲 [Games in the Dungeon](https://github.com/anjaplemenitas/games_in_the_dungeon)
+🎲 [Games in the Dungeon](https://github.com/anjaplemenitas/games_in_the_dungeon/blob/master/README.md)
 
 
 <h3 align="left">Connect with me:</h3>
