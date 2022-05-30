@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 📨....anja.plemenitas@gmail.com
 <br>
-📄....https://tinyurl.com/CVpdfAnjaPlemenitas
+📄....https://tinyurl.com/CvAnjaPlemenitas
 <br>
  <p align="left">
  <a href="https://www.linkedin.com/in/anjaplemenitas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alastair-turner-7b60b98a" height="20" width="30" /></a>..https://www.linkedin.com/in/anjaplemenitas 
