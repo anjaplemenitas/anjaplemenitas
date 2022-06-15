@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### My name is Anja - Front End Web Developer!
+### My name is Anja - Frontend Web Developer!
 
 
 🙋‍♀️ Looking for web development job, I completed a full-stack web development course at LeWagon London.
@@ -10,6 +10,10 @@
 🌱 I have experience in reducing waste which I implemented and it was always a topic in my previous culinary work. 
 <br>
 💪 Self-motivated, highly organised, and perform multiple tasks under minimal supervision. 
+<br>
+<br>
+👩‍💻 Currently actively learning React and improving JavaScript skills.
+<br>
 
 <h3 align="left">Projects:</h3>
 
