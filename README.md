@@ -3,9 +3,9 @@
 ### My name is Anja - Frontend Web Developer!
 
 
-🙋‍♀️ Looking for web development job, I completed a full-stack web development course at LeWagon London.
+🙋‍♀️ Looking for web development job.
 <br>
-💡 Knowledge of HTML, CSS, Javascript, and other emerging internet application technologies, with a particular interest in the field of sustainability.
+💡 Knowledge of HTML, CSS, Javascript, and other emerging internet application technologies, with a particular interest in the field of sustainability. I completed a full-stack web development course at LeWagon London
 <br>
 🌱 I have experience in reducing waste which I implemented and it was always a topic in my previous culinary work. 
 <br>
