@@ -25,7 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 📨....<a href="anja.plemenitas@gmail.com">anja.plemenitas@gmail.com</a>
 <br>
-📄....<a href="https://drive.google.com/file/d/1D-96R-9azTGxmtKmrb7YpSEC35Bz7LFT/view?usp=sharing">Resume</a>
+📄....<a href="https://drive.google.com/file/d/1Q6KTvbdCDk7W-IpjR2sWPrDCZCgsclrM/view?usp=sharing">Resume</a>
 <br>
  <p align="left">
  <a href="https://www.linkedin.com/in/anjaplemenitas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alastair-turner-7b60b98a" height="20" width="30" /></a>..<a href="https://www.linkedin.com/in/anjaplemenitas/">LinkedIn </a>
