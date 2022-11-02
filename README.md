@@ -3,7 +3,7 @@
 ### My name is Anja - Frontend Web Developer!
 
 
-🙋‍♀️ Looking for web development job.
+🙋‍♀️ Looking for web development job. Check out my <a href="https://anjaplemenitas.github.io/react-portfolio/">portfolio page.</a>
 <br>
 💡 Knowledge of HTML, CSS, Javascript, and other emerging internet application technologies, with a particular interest in the field of sustainability. I completed a full-stack web development course at LeWagon London
 <br>
@@ -16,10 +16,11 @@
 <br>
 
 <h3 align="left">Projects:</h3>
-
-🥑  [OddRecipe](https://github.com/anjaplemenitas/OddRecipe/blob/master/README.md)
+👩  <a href="https://github.com/anjaplemenitas/react-portfolio">[Portfolio]</a>
 <br>
-🎲 [Games in the Dungeon](https://github.com/anjaplemenitas/games_in_the_dungeon/blob/master/README.md)
+🥑  <a href="https://github.com/anjaplemenitas/OddRecipe/blob/master/README.md">[OddRecipe]</a>
+<br>
+🎲  <a href="https://github.com/anjaplemenitas/games_in_the_dungeon/blob/master/README.md">[Games in the Dungeon]</a>
 
 
 <h3 align="left">Connect with me:</h3>
