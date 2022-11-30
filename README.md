@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### My name is Anja - Frontend Web Developer!
+### My name is Anja - Full Stack Web Developer!
 
 
 🙋‍♀️ Looking for web development job. Check out my <a href="https://anjaplemenitas.github.io/react-portfolio/">portfolio page</a>.
