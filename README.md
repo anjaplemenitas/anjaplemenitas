@@ -21,7 +21,8 @@
 🥑  <a href="https://github.com/anjaplemenitas/OddRecipe/blob/master/README.md">[OddRecipe]</a>
 <br>
 🎲  <a href="https://github.com/anjaplemenitas/games_in_the_dungeon/blob/master/README.md">[Games in the Dungeon]</a>
-
+<br>
+🎭  <a href="https://www.behance.net/gallery/185701473/Snack-Ordering-App-Case-Study/modules/1050729253">[Snack Ordering App | Case Study]</a>
 
 <h3 align="left">Connect with me:</h3>
 📨....<a href="anja.plemenitas@gmail.com">anja.plemenitas@gmail.com</a>
