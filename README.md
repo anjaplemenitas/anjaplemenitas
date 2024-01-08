@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-### My name is Anja - Full Stack Web Developer!
+### My name is Anja - Full Stack Web Developer & UX/UI Designer!
 
 
-🙋‍♀️ Looking for web development job. Check out my <a href="https://anjaplemenitas.github.io/react-portfolio/">portfolio page</a>.
+🙋‍♀️ Check out my <a href="https://anjaplemenitas.github.io/react-portfolio/">portfolio page</a> and <a href="https://www.behance.net/anjaplemenitas">behance page</a>.
 <br>
-💡 Knowledge of HTML, CSS, Javascript, and other emerging internet application technologies, with a particular interest in the field of sustainability. I completed a full-stack web development course at LeWagon London
+💡 Knowledge of HTML, CSS, Javascript, and other emerging internet application technologies, with a particular interest in the field of sustainability. I completed a full-stack web development course at LeWagon London + I finished Google UX Design Certificate.
 <br>
 🌱 I have experience in reducing waste which I implemented and it was always a topic in my previous culinary work. 
 <br>
