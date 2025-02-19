@@ -3,7 +3,7 @@
 ### My name is Anja - Full Stack Web Developer & UX/UI Designer!
 
 
-🙋‍♀️ Check out my <a href="https://anjaplemenitas.github.io/react-portfolio/">portfolio page</a> and <a href="https://www.behance.net/anjaplemenitas">behance page</a>.
+🙋‍♀️ Check me out 👇 and <a href="https://www.behance.net/anjaplemenitas">behance page</a>.
 <br>
 💡 Knowledge of HTML, CSS, Javascript, and other emerging internet application technologies, with a particular interest in the field of sustainability. I completed a full-stack web development course at LeWagon London + I finished Google UI/UX Design Course.
 <br>
